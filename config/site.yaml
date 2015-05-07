@@ -5,11 +5,6 @@ author:
 metadata:
     description: 'Striped is a free and responsive theme for **Grav**. Its a port of Striped template by HTML5UP.'
     
-# Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   -  url: "#"
