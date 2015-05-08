@@ -2,7 +2,7 @@
 title: London Industry at Night
 date: 13:34 06/07/2014 
 author: Michael Reimer
-body_classes: header-lite fullwidth blogstyling
+description: Feugiat interdum sed commodo ipsum consequat dolor nullam metus
 taxonomy:
     category: blog
     tag: [city, night, photography]

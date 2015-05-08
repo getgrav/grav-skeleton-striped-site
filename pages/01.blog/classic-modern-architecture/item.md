@@ -2,7 +2,7 @@
 title: Classic Modern Architecture
 date: 17:34 06/27/2014 
 author: Mark Reison
-body_classes: header-lite fullwidth blogstyling
+description: Feugiat interdum sed commodo ipsum consequat dolor nullam metus
 taxonomy:
     category: blog
     tag: [architecture, photography]

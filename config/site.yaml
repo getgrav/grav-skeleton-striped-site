@@ -5,11 +5,16 @@ author:
 metadata:
     description: 'Striped is a free and responsive theme for **Grav**. Its a port of Striped template by HTML5UP.'
 
+# Disable or enable sharing icons
 share:
-  facebook: true #show facebook share icon
-  twitter: true  #show twitter share icon
+  facebook: true 
+  twitter: true 
 
-calendar: true #show calendar in sidebar
+# Show calendar in sidebar
+calendar: true 
+
+# Sidebar position
+sidebar_position: left
 
 # Main Menu
 menu:
