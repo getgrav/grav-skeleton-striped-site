@@ -1,6 +1,6 @@
 title: Striped
 author:
-  name: Grav
+  name: Team Grav
   email: 'joe@test.com'
 metadata:
     description: 'Striped is a free and responsive theme for **Grav**. Its a port of Striped template by HTML5UP.'
@@ -16,16 +16,8 @@ social:
 
 # Main Menu
 menu:
-  - text: Features
-    link: "#features"
-  - text: Pricing
-    link: "#pricing"
-  - text: Screenshots
-    link: "#screenshots"
-  - text: Testimonials
-    link: "#testimonials"
-  - text: Subscribe
-    link: "#subscribe"    
+  - text: External link
+    link: "#" 
 
 footer: 
   text: "This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris."
