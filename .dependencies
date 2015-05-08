@@ -15,6 +15,10 @@ git:
         url: https://github.com/getgrav/grav-plugin-feed
         path: user/plugins/feed
         branch: develop
+    random:
+        url: https://github.com/getgrav/grav-plugin-random
+        path: user/plugins/random
+        branch: develop    
     pagination:
         url: https://github.com/getgrav/grav-plugin-pagination
         path: user/plugins/pagination
@@ -26,10 +30,6 @@ git:
     simple_form:
         url: https://github.com/nunopress/grav-plugin-simple_form
         path: user/plugins/simple_form
-        branch: develop
-    jscomments:
-        url: https://github.com/nunopress/grav-plugin-jscomments
-        path: user/plugins/jscomments
         branch: develop
     taxonomylist:
         url: https://github.com/getgrav/grav-plugin-taxonomylist
@@ -60,6 +60,10 @@ links:
         src: grav-plugin-feed
         path: user/plugins/feed
         scm: github
+    random:
+        src: grav-plugin-random
+        path: user/plugins/random
+        scm: github    
     pagination:
         src: grav-plugin-pagination
         path: user/plugins/pagination
@@ -71,10 +75,6 @@ links:
     simple_form:
         src: grav-plugin-simple_form
         path: user/plugins/simple_form
-        scm: github
-    jscomments:
-        src: grav-plugin-jscomments
-        path: user/plugins/jscomments
         scm: github
     taxonomylist:
         src: grav-plugin-taxonomylist
