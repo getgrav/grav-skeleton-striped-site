@@ -15,6 +15,10 @@ git:
         url: https://github.com/getgrav/grav-plugin-feed
         path: user/plugins/feed
         branch: develop
+    pagination:
+        url: https://github.com/getgrav/grav-plugin-pagination
+        path: user/plugins/pagination
+        branch: develop    
     relatedpages:
         url: https://github.com/getgrav/grav-plugin-relatedpages
         path: user/plugins/relatedpages
@@ -26,10 +30,6 @@ git:
     jscomments:
         url: https://github.com/nunopress/grav-plugin-jscomments
         path: user/plugins/jscomments
-        branch: develop
-    breadcrumbs:
-        url: https://github.com/getgrav/grav-plugin-breadcrumbs
-        path: user/plugins/breadcrumbs
         branch: develop
     taxonomylist:
         url: https://github.com/getgrav/grav-plugin-taxonomylist
@@ -60,6 +60,10 @@ links:
         src: grav-plugin-feed
         path: user/plugins/feed
         scm: github
+    pagination:
+        src: grav-plugin-pagination
+        path: user/plugins/pagination
+        scm: github    
     relatedpages:
         src: grav-plugin-relatedpages
         path: user/plugins/relatedpages
@@ -71,10 +75,6 @@ links:
     jscomments:
         src: grav-plugin-jscomments
         path: user/plugins/jscomments
-        scm: github
-    breadcrumbs:
-        src: grav-plugin-breadcrumbs
-        path: user/plugins/breadcrumbs
         scm: github
     taxonomylist:
         src: grav-plugin-taxonomylist

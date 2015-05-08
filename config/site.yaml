@@ -4,15 +4,12 @@ author:
   email: 'joe@test.com'
 metadata:
     description: 'Striped is a free and responsive theme for **Grav**. Its a port of Striped template by HTML5UP.'
-    
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  -  url: "#"
-     icon: facebook
-  -  url: "#"
-     icon: twitter
-  -  url: "#"
-     icon: google-plus  
+
+share:
+  facebook: true #show facebook share icon
+  twitter: true  #show twitter share icon
+
+calendar: true #show calendar in sidebar
 
 # Main Menu
 menu:
