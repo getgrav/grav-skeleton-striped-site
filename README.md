@@ -10,8 +10,11 @@ Striped by [HTML5UP](http://www.html5up.net), features a clean, minimalistic des
 * Fully Responsive
 * Various templates for presenting your content
 * Repositionable sidebar (left or right),
+* Calendar with actual date (post date for blog items)
 * Styling for all basic page elements
+* Styling for various modules
 * Cross browser compatible
+* Sharing buttons for Facebook and Twitter with share count.
 
 ## Basic Setup for a new Grav site
 
