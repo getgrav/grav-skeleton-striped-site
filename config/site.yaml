@@ -20,22 +20,3 @@ sidebar_position: left
 menu:
   - text: External link
     link: "#" 
-
-footer: 
-  text: "This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris."
-  address:
-    title: COME VISIT
-    lines:
-      - line: 1600 Amphitheatre Parkway
-      - line: Mountain View, CA
-      - line: 94043 US 
-  social_title: Socialize
-  contact:
-    title: CONTACT US
-    lines:
-      - text: 647.343.8234
-        url: "#"
-      - text: 123.456.7890
-        url: "#" 
-      - text: someone@stripedsite.com
-        url: "mailto:someone@stripedsite.com"    
