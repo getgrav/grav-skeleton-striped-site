@@ -1,0 +1,22 @@
+title: Striped
+author:
+  name: Team Grav
+  email: 'joe@test.com'
+metadata:
+    description: 'Striped is a free and responsive theme for **Grav**. Its a port of Striped template by HTML5UP.'
+
+# Disable or enable sharing icons
+share:
+  facebook: true 
+  twitter: true 
+
+# Show calendar in sidebar
+calendar: true 
+
+# Sidebar position
+sidebar_position: left
+
+# Main Menu
+menu:
+  - text: External link
+    link: "#" 
