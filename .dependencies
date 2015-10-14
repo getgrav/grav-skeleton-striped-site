@@ -18,11 +18,11 @@ git:
     random:
         url: https://github.com/getgrav/grav-plugin-random
         path: user/plugins/random
-        branch: master    
+        branch: master
     pagination:
         url: https://github.com/getgrav/grav-plugin-pagination
         path: user/plugins/pagination
-        branch: master    
+        branch: master
     relatedpages:
         url: https://github.com/getgrav/grav-plugin-relatedpages
         path: user/plugins/relatedpages
@@ -38,7 +38,7 @@ git:
     archives:
         url: https://github.com/getgrav/grav-plugin-archives
         path: user/plugins/archives
-        branch: master   
+        branch: master
     striped:
         url: https://github.com/getgrav/grav-theme-striped
         path: user/themes/striped
@@ -63,11 +63,11 @@ links:
     random:
         src: grav-plugin-random
         path: user/plugins/random
-        scm: github    
+        scm: github
     pagination:
         src: grav-plugin-pagination
         path: user/plugins/pagination
-        scm: github    
+        scm: github
     relatedpages:
         src: grav-plugin-relatedpages
         path: user/plugins/relatedpages
@@ -83,7 +83,7 @@ links:
     archives:
         src: grav-plugin-archives
         path: user/plugins/archives
-        scm: github 
+        scm: github
     striped:
         src: grav-theme-striped
         path: user/themes/striped

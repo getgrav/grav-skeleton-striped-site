@@ -1,0 +1,13 @@
+enabled: true
+from: hexplor@gmail.com
+to: hexplor@gmail.com
+mailer:
+  engine: mail
+  smtp:
+    server: localhost
+    port: 25
+    encryption: none
+    user: ''
+    password: ''
+  sendmail:
+    bin: '/usr/sbin/sendmail'
