@@ -1,6 +1,6 @@
 enabled: true
-from: hexplor@gmail.com
-to: hexplor@gmail.com
+from: your@email.here
+to: your@email.here
 mailer:
   engine: mail
   smtp:
