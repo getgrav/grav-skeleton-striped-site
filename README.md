@@ -38,5 +38,5 @@ To install  **just** the theme:
 $ bin/gpm install striped
 ```
 
-
-
+# Contact Form Configuration
+For contact form configuration instructions please refer to [official documentatnion](http://learn.getgrav.org/advanced/contact-form). Make sure you installed Email and Form plugin though.
